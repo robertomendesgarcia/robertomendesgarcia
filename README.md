@@ -2,7 +2,7 @@
 
 I'm a **Backend Developer with over 17 years of experience** building and maintaining web applications.
 
-Throughout my career, I've worked on a variety of projects, focusing on reliable solutions, application performance, security, and system integrations. I enjoy solving complex problems, improving existing systems, and helping teams deliver better results.
+Throughout my career, I've worked on a variety of projects, focusing on reliable solutions, application performance, security, and system integrations.
 
 Currently, I work as a Web Developer, where I contribute to technical decisions, support other developers, and help manage development activities and delivery deadlines.
 
