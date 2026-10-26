@@ -39,6 +39,11 @@ Currently, I work as a Senior Web Developer, where I contribute to technical dec
 - **Postgraduate Studies:** Database Management — 2026
 - **Bachelor's Degree:** Information Systems — 2013
 
+## Languages
+
+- **Portuguese:** Native
+- **English:** Currently improving professional communication skills.
+
 ## Let's Connect
 
 - **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/roberto-mendes-garcia)
