@@ -1,12 +1,10 @@
-# Hello, I'm Roberto Garcia!
+# Hello, I'm Roberto Mendes Garcia!
 
 I'm a **Backend Developer with over 17 years of experience** building and maintaining web applications.
 
 Throughout my career, I've worked on a variety of projects, focusing on reliable solutions, application performance, security, and system integrations.
 
-Currently, I work as a Web Developer, where I contribute to technical decisions, support other developers, and help manage development activities and delivery deadlines.
-
-I'm always looking to improve my skills, learn new technologies, and take on new challenges.
+Currently, I work as a Senior Web Developer, where I contribute to technical decisions, support other developers, and help manage development activities and delivery deadlines.
 
 ## Professional Highlights
 
@@ -25,13 +23,15 @@ I'm always looking to improve my skills, learn new technologies, and take on new
 
 **Frameworks:** Adianti Framework, CakePHP, Yii Framework
 
-**Databases & Caching:** MySQL, Microsoft SQL Server, Sybase, Redis
+**Databases & Caching:** MySQL, Microsoft SQL Server, Redis
 
 **Web Technologies:** HTML, CSS, jQuery, Bootstrap, REST APIs
 
 **Infrastructure:** Linux, Apache, Nginx
 
 **Version Control:** Git, SVN
+
+**AI & Development Tools:** GitHub Copilot, GitHub Spec Kit
 
 ## Education
 
@@ -40,8 +40,6 @@ I'm always looking to improve my skills, learn new technologies, and take on new
 - **Bachelor's Degree:** Information Systems — 2013
 
 ## Let's Connect
-
-I'm always open to connecting with other developers, sharing experiences, and exploring professional opportunities.
 
 - **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/roberto-mendes-garcia)
 - **Email:** [Contact me](mailto:robertomendesgarcia@gmail.com)
